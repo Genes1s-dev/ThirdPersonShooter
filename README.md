@@ -10,4 +10,4 @@ LCM - fire <br>
 RCM - aim <br>
 Tab - activate/switch weapon <br>
 
-Time spent ~ 25 hours, the lion's share of which was spent on animating these gorgeous legs
+Task completed within ~ 25 hours, the lion's share of which was spent on animating these gorgeous legs

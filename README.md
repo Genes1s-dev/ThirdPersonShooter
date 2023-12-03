@@ -2,7 +2,7 @@
 
 Player controls:
 
-WASD - movement
+WASD - movement  /n
 Shift - sprint
 Space - jump
 E - interract

@@ -1,13 +1,13 @@
 # ThirdPersonShooter
 
 Player controls:
-
-WASD - movement  /n
-Shift - sprint
-Space - jump
-E - interract
-LCM - fire
-RCM - aim
-Tab - activate/switch weapon
+<br>
+WASD - movement  <br>
+Shift - sprint <br>
+Space - jump <br>
+E - interract <br>
+LCM - fire <br>
+RCM - aim <br>
+Tab - activate/switch weapon <br>
 
 Time spent ~ 25 hours, the lion's share of which was spent on animating these gorgeous legs
